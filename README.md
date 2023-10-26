@@ -1,8 +1,8 @@
 # ¡Buenas! Soy Alejandro Navarro 👋
 
 <div align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=alenavarroxp&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&hide_title=true&theme=algolia" />
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alenavarroxp&hide_progress=true&hide_title=true&theme=algolia" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=alenavarroxp&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&hide_title=true&theme=transparent" />
+    <img align="center" margin="10px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alenavarroxp&hide_progress=true&hide_title=true&theme=transparent&hide_border=true" />
   </div>
 </div>
 
