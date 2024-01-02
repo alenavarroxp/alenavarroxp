@@ -7,8 +7,8 @@
 </div>
 
 ## Acerca de Mí
-- 🌱 Actualmente aprendiendo [Three.JS](https://threejs.org), una poderosa biblioteca de JavaScript para crear gráficos 3D en la web.
-- 💡 Explorando la creación de mundos tridimensionales y experiencias interactivas en línea con Three.js.
+- 🌱 Actualmente aprendiendo [Three.JS](https://threejs.org) y [Babylon.JS](https://www.babylonjs.com) bibliotecas de Javascript para crear gráficos 3D en la web.
+- 💡 Explorando la creación de mundos tridimensionales y experiencias interactivas en línea.
 - 🎮 Apasionado por el desarrollo de juegos y aplicaciones interactivas en 3D.
 
 
