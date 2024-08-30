@@ -33,7 +33,7 @@
       <br>
       <a href="https://github.com/dongnez/PagameWeb"><b>PAGAME</b></a>
       <br>
-      <p style="text-align: justify;">Aplicación para repartir gastos entre grupos de personas.</p>
+      <p style="text-align: justify;">Aplicación móvil para Android e iOS para controlar deudas entre grupos de personas.</p>
     </td>
   </tr>
 </table>
