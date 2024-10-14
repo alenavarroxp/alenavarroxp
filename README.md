@@ -1,50 +1,52 @@
 <div align="center">
-    <img src="./alenavarroxp-header.png" style="width: 100%;" />
+  <img src="./assets/alenavarroxp-header.png" alt="Alejandro Navarro Header" width="100%" />
+</div>
+<h2> About Me 👨‍💻 </h2> 
+<p>
+    I am a <strong>software developer</strong> committed to continuous learning and growth through <strong>innovative projects</strong>. If you are <strong>interested in collaborating with me</strong>, please feel free to reach out:
+</p>
+
+<div>
+    <a href="https://www.linkedin.com/in/alenavarroxp/">
+        <code><img width="40" height="40" src="/assets/linkedin.png" alt="LinkedIn"/></code>
+    </a>
+    <a href="mailto:alejandronavarro.software@gmail.com">
+        <code><img width="40" height="40" src="/assets/gmail.png" alt="Gmail"/></code>
+    </a>
 </div>
 
-#### Profesional en constante crecimiento y formación, comprometido con la entrega de resultados de calidad.
 
-## Proyectos Destacados 🚀
+<h2>Technologies I Frequently Use</h2>
+<p align="center">
+    <code><img width="70" height="70" src="./assets/react.png"></code> &nbsp;&nbsp;
+    <code><img width="70" height="70" src="./assets/typescript.png"></code> &nbsp;&nbsp;
+    <code><img width="70" height="70" src="./assets/js.png"></code> &nbsp;&nbsp;
+    <code><img width="70" height="70" src="./assets/tailwind.png"></code>&nbsp;&nbsp;
+    <code><img width="70" height="70" src="./assets/html.png"></code> &nbsp;&nbsp;
+    <code><img width="70" height="70" src="./assets/css.png"></code> &nbsp;&nbsp;
+    <code><img width="70" height="70" src="./assets/node.png"></code> &nbsp;&nbsp;
+    <code><img width="70" height="70" src="./assets/astro.png"></code> &nbsp;&nbsp;
+    <code><img width="70" height="70" src="./assets/python.png"></code> &nbsp;&nbsp;
+    <code><img width="70" height="70" src="./assets/git.png"></code> &nbsp;&nbsp;
+    <code><img width="70" height="70" src="./assets/npm.png"></code>&nbsp;&nbsp;
+</p>
 
-<table style="width: 100%;">
-  <tr>
-    <td style="width: 33.33%; text-align: center;">
-      <a href="https://entornotfg-h47w4qe3wq-no.a.run.app/">
-        <img src="./entornocra-preview.jpg" alt="EntornoCRA" style="width: 100%; height: 100%">
-      </a>
-      <br>
-      <a href="https://entornotfg-h47w4qe3wq-no.a.run.app/"><b>EntornoCRA</b></a>
-      <br>
-      <p style="text-align: justify;">Mundo virtual tridimensional interactivo aplicado a la educación.</p>
-    </td>
-    <td style="width: 33.33%; text-align: center;">
-      <a href="https://github.com/alenavarroxp/PatternsOfTheDungeon">
-        <img src="./potd-preview.jpg" alt="Patterns Of The Dungeon" style="width: 100%; height: 100%">
-      </a>
-      <br>
-      <a href="https://github.com/alenavarroxp/PatternsOfTheDungeon"><b>Patterns Of The Dungeon</b></a>
-      <br>
-      <p style="text-align: justify;">Videojuego de mazmorras aplicando patrones de diseño.</p>
-    </td>
-    <td style="width: 33.33%; text-align: center;">
-      <a href="https://github.com/dongnez/PagameWeb">
-        <img src="./pagame-preview.jpg" alt="PAGAME" style="width: 100%; height: 100%">
-      </a>
-      <br>
-      <a href="https://github.com/dongnez/PagameWeb"><b>PAGAME</b></a>
-      <br>
-      <p style="text-align: justify;">Aplicación móvil para Android e iOS para controlar deudas entre grupos de personas.</p>
-    </td>
-  </tr>
-</table>
+---
+<details>
+<summary><h2>🚀 Recent Projects</h2></summary>
+<p>If you find my projects interesting, consider giving them a star on GitHub! ⭐</p>
+    
+[![OrionX](https://github-readme-stats.vercel.app/api/pin/?username=alenavarroxp&repo=orionX&show_owner=true&theme=tokyonight)](https://github.com/alenavarroxp/orionX)
+[![Aignite](https://github-readme-stats.vercel.app/api/pin/?username=alenavarroxp&repo=aignite&show_owner=true&theme=tokyonight)](https://github.com/alenavarroxp/aignite)
+[![Babylon-Colyseus](https://github-readme-stats.vercel.app/api/pin/?username=alenavarroxp&repo=babylon-colyseus&show_owner=true&theme=tokyonight)](https://github.com/alenavarroxp/babylon-colyseus)
+[![UIXP-Elements](https://github-readme-stats.vercel.app/api/pin/?username=alenavarroxp&repo=uixp-elements&show_owner=true&theme=tokyonight)](https://github.com/alenavarroxp/uixp-elements)
 
 
-## Contacto 📫
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/alenavarroxp/) [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:alejandronavarro.software@gmail.com)
+<br />
 
+[!Normal-Day](./assets/normal-day.gif)
+</details>
 
-
-
-
-
-
+---
+[![ProfileViews](https://komarev.com/ghpvc/?username=alenavarroxp)](https://www.github.com/alenavarroxp)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Falenavarroxp%2Falenavarroxp&count_bg=%2301ACE3&title_bg=%233B3B3B&icon=github.svg&icon_color=%23E7E7E7&title=Click+me!&edge_flat=false)](https://www.github.com/alenavarroxp)
