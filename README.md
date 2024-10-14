@@ -43,10 +43,12 @@
 
 
 <br />
+<div align="center">
+  <img src="./assets/normal-day.gif" alt="Normal-Day" />
+</div>
 
-[!Normal-Day](./assets/normal-day.gif)
 </details>
 
 ---
-[![ProfileViews](https://komarev.com/ghpvc/?username=alenavarroxp)](https://www.github.com/alenavarroxp)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Falenavarroxp%2Falenavarroxp&count_bg=%2301ACE3&title_bg=%233B3B3B&icon=github.svg&icon_color=%23E7E7E7&title=Click+me!&edge_flat=false)](https://www.github.com/alenavarroxp)
+[![ProfileViews](https://komarev.com/ghpvc/?username=alenavarroxp)](https://www.github.com/alenavarroxp)
