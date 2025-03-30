@@ -61,15 +61,17 @@
 
 
 
-<img src="./assets/snake.svg" alt="Snake" />
+<div style="text-align: center;">
+  <img src="./assets/snake.svg" alt="Snake" />
+</div>
  
-[![ProfileViews](https://komarev.com/ghpvc/?username=alenavarroxp&color=blue)](https://www.github.com/alenavarroxp)
+
 
  
 </details>
 
 ---
-
+ [![ProfileViews](https://komarev.com/ghpvc/?username=alenavarroxp&color=blue)](https://www.github.com/alenavarroxp)
 
 
 
