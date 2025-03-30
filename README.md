@@ -50,5 +50,25 @@
 </details>
 
 ---
+<details>
+  <summary>
+    <h2>🔥Activity & Stats</h2>
+  </summary> 
+
+ | 🎯 Streak Stats | 🎧 Recently Played |
+|:-:|:-:|
+| ![Streak](https://streak-stats.demolab.com?user=alenavarroxp&theme=blueberry) | ![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=dtlibekmj&count=4&unique=true) |
+
+
+
+
+ 
 [![ProfileViews](https://komarev.com/ghpvc/?username=alenavarroxp&color=blue)](https://www.github.com/alenavarroxp)
+
+ 
+</details>
+
+
+
+
 
