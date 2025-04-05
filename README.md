@@ -55,9 +55,7 @@
     <h2>🔥Activity & Stats</h2>
   </summary> 
 
- | 🎯 Streak Stats |
-|:-:|:-:|
-| ![Streak](https://streak-stats.demolab.com?user=alenavarroxp&theme=blueberry) |
+![Streak](https://streak-stats.demolab.com?user=alenavarroxp&theme=blueberry)
 
 <div style="text-align: center;">
   <img src="./assets/snake.svg" alt="Snake" />
