@@ -55,18 +55,13 @@
     <h2>🔥Activity & Stats</h2>
   </summary> 
 
- | 🎯 Streak Stats | 🎧 Last Songs Played |
+ | 🎯 Streak Stats |
 |:-:|:-:|
-| ![Streak](https://streak-stats.demolab.com?user=alenavarroxp&theme=blueberry) | ![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=dtlibekmj&count=4&unique=true) |
-
-
+| ![Streak](https://streak-stats.demolab.com?user=alenavarroxp&theme=blueberry) |
 
 <div style="text-align: center;">
   <img src="./assets/snake.svg" alt="Snake" />
 </div>
- 
-
-
  
 </details>
 
