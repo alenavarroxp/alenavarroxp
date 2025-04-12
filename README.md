@@ -52,14 +52,31 @@
 ---
 <details>
   <summary>
-    <h2>🔥Activity & Stats</h2>
+    <h2>🔥 Activity & Stats</h2>
   </summary> 
 
-![Streak](https://streak-stats.demolab.com?user=alenavarroxp&theme=blueberry)
+  <!-- Tabla para organizar elementos horizontalmente -->
+  <table>
+    <tr>
+      <td>
+        <img src="https://streak-stats.demolab.com?user=alenavarroxp&theme=blueberry" alt="Streak Stats">
+      </td>
+      <td>
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=alenavarroxp&theme=tokyonight" alt="Summary Card">
+      </td>
+    </tr>
+  </table>
 
-<div style="text-align: center;">
-  <img src="./assets/snake.svg" alt="Snake" />
-</div>
+ <!-- Gráfico de actividad -->
+  <div align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=alenavarroxp&theme=tokyo-night" alt="Activity Graph"/>
+  </div>
+  
+  <!-- Snake Animation -->
+  <div style="text-align: center;">
+    <img src="./assets/snake.svg" alt="Snake" />
+  </div>
+
  
 </details>
 
