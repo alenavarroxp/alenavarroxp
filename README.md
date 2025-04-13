@@ -62,7 +62,7 @@
         <img src="https://streak-stats.demolab.com?user=alenavarroxp&theme=blueberry" alt="Streak Stats">
       </td>
       <td>
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=alenavarroxp&theme=blueberry" alt="Summary Card">
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alenavarroxp&theme=blueberry" alt="Summary Card">
       </td>
     </tr>
   </table>
